@@ -19,9 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
   organization = "システム開発会社"
+  title = "人材紹介サービス会社向けアプリの開発"
+  date_start = "2020-07-01"
+  date_end = ""
+  roles = ""
+  description = """
+  概要 :  
+  - ウォーターフォール開発  
+
+  - Typescript(Angular)を用いたフロントエンド開発を担当
+    - 概ね完成しているアプリの機能追加を担当
+
+  技術 :  
+
+  - Typescript, Angular
+
+  """
+[[item]]
+  organization = "システム開発会社"
   title = "労務管理アプリの開発"
   date_start = "2020-04-01"
-  date_end = "2020-06-01"
+  date_end = "2020-07-01"
   roles = ""
   description = """
   概要 :  
@@ -31,9 +49,12 @@ date_format = "Jan 2006"
     - ゼロベースからのフロント実装
     - Angular Materialを使用してスピード重視での実装  
 
-  - テスト自動化の整備を担当
+  - テスト自動化の整備を担当(CI/CDの管理)
     - lighthouseによるパフォーマンス測定の実装
-    - 画像回帰テスト,e2eテストのメンテナンス
+    - 画像回帰テスト(Storybook,Storycap,reg-suit),e2eテスト(puppetter,Jest)のメンテナンス
+    - e2eテスト環境の自動デプロイの整備
+    - 毎週LT会を開催し、↑で行った作業内容について発表した
+
 
   技術 :  
 

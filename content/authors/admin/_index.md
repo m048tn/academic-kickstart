@@ -46,7 +46,7 @@ social:
     link: https://facebook.com/tanakamoeko10/
   - icon: link
     icon_pack: fas
-    link: https://scrapbox.io/m048tn/
+    link: https://scrapbox.io/m048smsnmtn-25085243/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
 平成 9 年生まれ。2018 年に鹿児島工業高等専門学校を卒業後、株式会社メンバーズに新卒入社する。
 その後メンバーズキャリアカンパニーに配属となり、お客様先に常駐しながら web エンジニアとして
 開発を行っている。  
-現在は Angular を用いたフロントエンド周りの開発や、テスト自動化に向けての環境の整備を担当している。
+現在は Angular を用いたフロントエンド周りの開発を行っている。
